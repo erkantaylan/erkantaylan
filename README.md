@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![stats](https://github-readme-stats.vercel.app/api?username=erkantaylan&count_private=true)](https://github.com/erkantaylan)
 
 <!--
