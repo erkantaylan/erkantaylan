@@ -1,18 +1,12 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=erkantaylan&count_private=true&show_icons=true&theme=blueberry)](https://github.com/erkantaylan)
+### Stats
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erkantaylan&layout=compact&langs_count=10&hide=html,smarty,javascript&show_icons=true&theme=blueberry)](https://github.com/erkantaylan)
+- [![stats](https://github-readme-stats.vercel.app/api?username=erkantaylan&count_private=true&show_icons=true&theme=blueberry)](https://github.com/erkantaylan)
 
-<!--
-**erkantaylan/erkantaylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+- [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erkantaylan&layout=compact&langs_count=10&hide=html,smarty,javascript&show_icons=true&theme=blueberry)](https://github.com/erkantaylan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Trophies
+
+- [![trophy](https://github-profile-trophy.vercel.app/?username=erkantaylan&theme=onedark)](https://github.com/erkantaylan/)
