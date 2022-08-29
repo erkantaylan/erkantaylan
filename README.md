@@ -1,9 +1,6 @@
 
 ### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=erkantaylan&theme=onedark)](https://github.com/erkantaylan/)
-
-
 
 |Stats|Languages|
 |-----|---------|
