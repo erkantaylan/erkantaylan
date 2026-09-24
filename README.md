@@ -10,8 +10,6 @@ I write .NET for a living and everything else out of curiosity.
 
 📄 **[livemd](https://github.com/erkantaylan/livemd)** — I got tired of `cat`-ing markdown, so a Go daemon watches my files and renders them in the browser instead. I'm probably looking at this README through it right now.
 
-🎵 **[listen-along](https://music.etaylan.com)** — a room where everyone hears the same song at the same second. It's live, and strangers file bug reports on it, which still delights me.
-
 ♟️ **[chess-learn](https://repertoire.etaylan.com)** — my opening repertoire as a branching tree I can name myself, with Stockfish running in the browser. Built because I kept forgetting why I play the moves I play.
 
 ### Bookmarks
